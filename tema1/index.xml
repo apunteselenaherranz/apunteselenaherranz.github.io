@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tema1s on Curso Informática</title>
+    <link>/tema1/</link>
+    <description>Recent content in Tema1s on Curso Informática</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Sat, 19 Mar 2022 09:50:22 +0100</lastBuildDate><atom:link href="/tema1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tema 1: Conceptos Básicos de Informática</title>
+      <link>/tema1/documento1/</link>
+      <pubDate>Sat, 19 Mar 2022 09:50:22 +0100</pubDate>
+      
+      <guid>/tema1/documento1/</guid>
+      <description>Componentes de un Ordenador.    Componentes Físicos (Hardware) Componentes Lógicos (Software)     Elementos del ordenador que podemos ver y coger Todos los programas y la información que se guarda en el ordenador. La podemos ver pero no coger   Ejemplos: teclado, ratón, monitor, torre… Ejemplos: Sistema operativo (windows, lliurex…), programas o aplicaciones (explorador de internet, Instagram, Procesador de Textos…) y datos (documentos, fotos, vídeos, música…)    Periféricos.</description>
+    </item>
+    
+  </channel>
+</rss>
